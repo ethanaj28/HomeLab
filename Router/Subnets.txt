@@ -1,3 +1,13 @@
+9/25/25
+
+Subnetting my Network
+
+Network: 192.168.68.0
+Subnet Mask: 255.255.255.192
+
+Total Subnets: 4
+Total Hosts: 64
+
 Net Address       Usable Hosts                  Broadcast
 192.168.68.0      192.168.68.1-192.168.68.62    192.168.68.63
 192.168.68.64     192.168.68.65-192.168.68.126  192.168.68.127
