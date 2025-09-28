@@ -1,11 +1,12 @@
-9/25/25
+Custom Router 
+-
+Hardware:
++ Intel 11 Jasper Lake
++ USB to Ethernet
++ 750GB Ext SSD
 
-Subnetting my Network
-
-Network: 192.168.68.0
-
-Subnet Mask: 255.255.255.192
-
-Total Subnets: 4
-
-Total Hosts: 64
+Software:
++ Proxmox (Unclustered)
+  + pfSense
+  + PiHole w/ Unbound
+  + VPN (Wireguard)
