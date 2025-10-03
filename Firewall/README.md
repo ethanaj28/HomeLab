@@ -21,4 +21,5 @@ Proxmox
 -
 10/01/25
 
-I installed proxmox and next I will be attempting to create a VM with pfSense.
+I installed proxmox and resized my 'local' disk and renamed it to nvme.
+Next I will be making a VM for pfSense.
