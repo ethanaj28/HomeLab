@@ -24,6 +24,14 @@ Proxmox
 I installed proxmox and resized my 'local' disk and renamed it to nvme.
 Next I will be making a VM for pfSense.
 
+PFsense
+-
+19/5/25
+
+I have been tinkering around with the configurations of pfSense. I attempted to route traffic while double NAT-ing and nothing would get through. 
+I can establish connectivity, but I couldn't recieve traffic. (If that makes any sense.)
+
+
 pfSense
 -
 10/3/25
