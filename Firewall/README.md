@@ -27,6 +27,7 @@ Next I will be making a VM for pfSense.
 pfSense
 -
 10/3/25
+
 I created the VM for pfSense. I am okay with double NAT-ing for testing purposes. 
 Prior to the creation of the VM, I needed to add an ethernet connection and linux bridge to Proxmox > Firewall > pfSense > Hardware
 
